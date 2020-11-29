@@ -1,5 +1,5 @@
 <p align="center">
-  <img  alt="em desenvolvimento" src="./course-manager/src/assets/img/under-development.png" width="80%">
+  <img alt="em desenvolvimento" src="./course-manager/src/assets/img/under-development.png" width="80%">
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img  alt="Logo Angular" src="./img/angular-logo.png" width="50%">
+  <img  alt="Logo Angular" src="./course-manager/src/assets/img/angular.svg" width="50%">
 </p>
 
 <h2 align="center">
