@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img  alt="Logo Angular" src="./course-manager/src/assets/img/angular.svg" width="50%">
+  <img  alt="Logo Angular" src="./course-manager/src/assets/img/angular.svg" width="25%">
 </p>
 
 <h2 align="center">
