@@ -1,18 +1,14 @@
 <p align="center">
-  <img alt="em desenvolvimento" src="./course-manager/src/assets/images/under-development.png" width="65%">
+  <img alt="em desenvolvimento" src="././src/assets/images/under-development.png" width="65%">
 </p>
 
 <h1 align="center">
-:small_red_triangle_down: Introduction to Angular 8 
+:small_red_triangle_down: Angular Basic Calculator
 </h1>
 
 <p align="center">
-  <imgages  alt="Logo Angular" src="./course-manager/src/assets/images/angular.svg" width="15%">
+  <imgages  alt="Logo Angular" src="././src/assets/images/angular.svg" width="15%">
 </p>
-
-<h2 align="center">
-Bootcamp everis Fullstack Developer by Digital Innovation One
-</h2>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
@@ -21,7 +17,7 @@ Bootcamp everis Fullstack Developer by Digital Innovation One
 </p>
 
 <p>
-This repository was created as part of bootcamp "everis FullStack Developer" by Digital Innovation One  to building a manager courses project with purpouse to introduce the Angular 8 basics concepts.
+This repository was created to training how to create a basic calculator application in Angular and deploy that applicaiton to GitHub Pages.
 </p>
 
 <p align="center">
@@ -60,6 +56,7 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 
 ## :books: Learning
   - Better understanding about typescript.
+  - learning how deploy an application to GitHub Pages.
 ## :small_orange_diamond: Sharing
 
 ## :small_orange_diamond: Customizing
@@ -71,6 +68,6 @@ The images in this project were made by repo's owner or taken from another repo 
 
 ## :small_orange_diamond: Thanks
 
-I wanna to say thank you to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Wesllhey Holanda for teaching in this course. You all are doing a great job. 
+I wanna to say thank you to  Dhananjay Kumar from <b>[Web Dev Zone](https://dzone.com/articles/how-to-deploy-an-angular-application-to-github)</b> for make this tutorial. 
 
 Well done! :clap: :clap:
